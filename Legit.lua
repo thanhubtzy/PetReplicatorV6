@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://github.com/thanhubtzy/PetReplicatorV6/blob/main/loaderhub")()
+loadstring(game:HttpGet("https://github.com/thanhubtzy/PetReplicatorV6/blob/main/loaderhub"))()
 
 local CoreGui = game:GetService("CoreGui")
 
